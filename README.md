@@ -7,6 +7,6 @@ Currently available:</n>
 **Java -  Reverse Lexicographical List Ordering.java**  
 This project takes any length array of strings and returns them sorted in reverse alphabetical order.
 
-**Python - spamclassifier**
+**Python - spamclassifier/spamclassifier.ipynb**  
 Spam refers to unwanted email, often in the form of advertisements. In this project, I wrote a supervised learning based classifier with a naive bayes algorithm to probabilistically determine whether any given email is spam or ham. Since this was a piece of University coursework, my code can be found on the jupyter notebook document following the above path. 
 
